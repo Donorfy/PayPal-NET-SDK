@@ -10,7 +10,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>PayPal.Testing</RootNamespace>
     <AssemblyName>PayPal.Tests</AssemblyName>
-    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <TargetFrameworkProfile />
@@ -74,7 +74,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SDK\PayPal.SDK.NET451.csproj">
-      <Project>{3735CF14-945D-4495-B26E-BDE599123C06}</Project>
+      <Project>{3735cf14-945d-4495-b26e-bde599123c06}</Project>
       <Name>PayPal.SDK.NET451</Name>
     </ProjectReference>
   </ItemGroup>
